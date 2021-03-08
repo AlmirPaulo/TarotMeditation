@@ -15,7 +15,7 @@ async def on_message(message):
     if message.content == '*help':
       await message.channel.send('''
       Prefix: *\n
-      Website:\n
+      Website:https://almirpaulo.github.io/TarotMeditation\n
       Support: https://discord.gg/4sutReEVE8\n
       Creator: https://github.com/AlmirPaulo\n
       Vote for us: Soon...\n
