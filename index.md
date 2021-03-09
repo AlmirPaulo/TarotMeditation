@@ -3,15 +3,14 @@
 <img src='https://raw.githubusercontent.com/AlmirPaulo/TarotMeditation/main/cards/1.png'>
 
 A discord bot that displays random tarot cards to help you in you meditations and self discovery process.
-
 At the moment, we are working only with the *Major Arcana*.
 
 ## Commands 
 
-* \*card [number]: Displays the correspondent card. 
-* \*1card: Displays a random card that we suggest you to read as an advice. 
-* \*2cards: Displays two random cards that we suggest you to read (respectively) as the positive and the negative side of a situation. 
-* \*3cards: Displays three random cards that we suggest you to read (respectively) as the past influences, the present and the possible future of a situation. 
+* **\*card [number]**: Displays the correspondent card. 
+* **\*1card**: Displays a random card that we suggest you to read as an advice. 
+* **\*2cards**: Displays two random cards that we suggest you to read (respectively) as the positive and the negative side of a situation. 
+* **\*3cards**: Displays three random cards that we suggest you to read (respectively) as the past influences, the present and the possible future of a situation. 
 
 ## How to read the cards?
 
@@ -27,5 +26,5 @@ If you are experiencing any problem, bug or have any question. Please visit our 
 
 ## Disclaimer 
 
-This discord bot intents to be for the pratice of people who believes in such pratices and pratice the tarot readings by their own. We do not take any kind of responsabilities for the tarot readings made with our software. 
+This discord bot intents to be for the pratice of people who believes in such pratices and read the tarot cards by their own. We do not take any kind of responsabilities for the tarot readings made with our software. 
 
