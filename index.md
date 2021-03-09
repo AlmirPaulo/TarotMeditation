@@ -9,7 +9,7 @@ At the moment, we are working only with the *Major Arcana*.
 
 * \*card [number]: Displays the correspondent card. 
 * \*1card: Displays a random card that we suggest you to read as an advice. 
-* \*2cards: Displays two random cards that we suggest you to read (respectively) as the positive and negative side of a situation. 
+* \*2cards: Displays two random cards that we suggest you to read (respectively) as the positive and the negative side of a situation. 
 * \*3cards: Displays three random cards that we suggest you to read (respectively) as the past influences, the present and the possible future of a situation. 
 
 ## How to read the cards?
