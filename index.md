@@ -5,7 +5,7 @@
 A discord bot that displays random tarot cards to help you in you meditations and self discovery process.
 At the moment, we are working only with the *Major Arcana*.
 
-<a href='https://discord.com/api/oauth2/authorize?client_id=818932139994775563&permissions=44032&scope=bot'><button style='padding:2%;color:white;font-weight:bold;background:red;border-radius:3%'>Invite Now!<\button><\a>
+<button style='padding:2%;color:white;font-weight:bold;background:red;border-radius:3%'><a href='https://discord.com/api/oauth2/authorize?client_id=818932139994775563&permissions=44032&scope=bot'>Invite Now!<\a><\button>
 
 ## Commands 
 
