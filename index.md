@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Tarot Meditation
 
-You can use the [editor on GitHub](https://github.com/AlmirPaulo/TarotMeditation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src='https://raw.githubusercontent.com/AlmirPaulo/TarotMeditation/main/cards/1.png'>
+A discord that displays a random tarot card to help you in you meditations and self discovery process.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+At the moment, we are working only with the *Major Arcana*.
 
-### Markdown
+## Commands 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* \*card [number]: Displays the correspondent card. 
+* \*1card: Displays a random card that we suggest to read as an advice. 
+* \*2cards: Displays two random cards that we suggest to read (respectively) as the positive and negative side of a situation. 
+* \*3cards: Displays three random cards that we suggest to read (respectively) as the past influences, the present and the possible future of a situation. 
 
-```markdown
-Syntax highlighted code block
+## How to read the cards?
 
-# Header 1
-## Header 2
-### Header 3
+A lot of people use tarot as a tool for self discovery and meditation. We will not provide a list of meaning to the cards here. There is plenty of this on the web. You certainly can find it very quickly if you try. I suggest you to learn to read by yourself. Understand the meanings, the symbology, then add your intuition and it's done! I suggest you to start [here](http://learntarot.com/).
 
-- Bulleted
-- List
+## Premium Version
 
-1. Numbered
-2. List
+Soon...
 
-**Bold** and _Italic_ and `Code` text
+## Support
 
-[Link](url) and ![Image](src)
-```
+If you are experiencing any problem, bug or have any question. Please visit our [Support Channel](https://discord.gg/4sutReEVE8) on Discord. We do not have a  F.A.Q. page yet, but I will work on that. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Disclaimer 
 
-### Jekyll Themes
+This discord bot intents to be for the pratice of people who believes in such pratices and pratice the tarot readings by their own. We do not take any kind of responsabilities for the tarot readings made with our software. 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlmirPaulo/TarotMeditation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
