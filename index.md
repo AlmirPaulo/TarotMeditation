@@ -1,6 +1,7 @@
 ## Tarot Meditation
 
 <img src='https://raw.githubusercontent.com/AlmirPaulo/TarotMeditation/main/cards/1.png'>
+
 A discord bot that displays random tarot cards to help you in you meditations and self discovery process.
 
 At the moment, we are working only with the *Major Arcana*.
