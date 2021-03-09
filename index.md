@@ -8,13 +8,13 @@ At the moment, we are working only with the *Major Arcana*.
 ## Commands 
 
 * \*card [number]: Displays the correspondent card. 
-* \*1card: Displays a random card that we suggest to read as an advice. 
-* \*2cards: Displays two random cards that we suggest to read (respectively) as the positive and negative side of a situation. 
-* \*3cards: Displays three random cards that we suggest to read (respectively) as the past influences, the present and the possible future of a situation. 
+* \*1card: Displays a random card that we suggest you to read as an advice. 
+* \*2cards: Displays two random cards that we suggest you to read (respectively) as the positive and negative side of a situation. 
+* \*3cards: Displays three random cards that we suggest you to read (respectively) as the past influences, the present and the possible future of a situation. 
 
 ## How to read the cards?
 
-A lot of people use tarot as a tool for self discovery and meditation. We will not provide a list of meaning to the cards here. There is plenty of this on the web. You certainly can find it very quickly if you try. I suggest you to learn to read by yourself. Understand the meanings, the symbology, then add your intuition and it's done! I suggest you to start [here](http://learntarot.com/).
+A lot of people use tarot as a tool for self discovery and meditation. We will not provide a list of meaning to the cards here. There is plenty of this on the web. You certainly can find it very quickly if you try. I suggest you to learn to read by yourself. Understand the meanings, the symbology, then add your intuition and it's done! Maybe you could start [here](http://learntarot.com/).
 
 ## Premium Version
 
